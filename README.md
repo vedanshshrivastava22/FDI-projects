@@ -2,7 +2,7 @@
 Overview
 This project focuses on the analysis of Foreign Direct Investment (FDI) across various countries and sectors. The goal is to provide insights into global investment trends, identify factors influencing FDI, and visualize its impact on economic development. This analysis can help policymakers, researchers, and investors understand FDI patterns and make informed decisions.
 
-Key Objectives:
+Key Objectives
 Explore global FDI trends over the years.
 Analyze the sectors that attract the most FDI.
 Examine the factors influencing FDI flows into different countries.
